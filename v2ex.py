@@ -7,8 +7,11 @@ import os
 # if you don't have a config.py
 # You can set v2ex_username, v2ex_password yourself
 
-v2ex_username = os.getenv('v2ex_username')
-v2ex_password = os.getenv('v2ex_password')
+#v2ex_username = os.getenv('v2ex_username')
+#v2ex_password = os.getenv('v2ex_password')
+
+v2ex_username = 'abc123it'
+v2ex_password = 'abc12345678'
 
 def qiandao_v2ex():
     headers = {
