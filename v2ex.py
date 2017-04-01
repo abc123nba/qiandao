@@ -11,7 +11,7 @@ import os
 #v2ex_password = os.getenv('v2ex_password')
 
 v2ex_username = 'abc123it'
-v2ex_password = 'abc12345678's
+v2ex_password = 'abc123qwer'
 
 def qiandao_v2ex():
     headers = {
